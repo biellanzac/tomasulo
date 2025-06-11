@@ -1,6 +1,7 @@
+package src;
 
-import models.Sistema;
-import models.TomasuloSimulator;
+import src.models.Sistema;
+import src.models.TomasuloSimulator;
 
 public class Main {
     public static void main(String[] args) {
